@@ -17,14 +17,14 @@ Passionate about AI/ML Research, Backend Development, and Innovative Technology 
 
 ## 🛠️ Tech Stack
 **Languages:** Python, Java, C++, JavaScript  
-**AI/ML:** BERT, scikit-learn, pandas, numpy, transformers  
+**AI/ML:** scikit-learn, pandas, numpy, BERT
 **Web:** React, Flask, HTML5, CSS3  
 **Database:** MySQL, SQLite  
 **Tools:** Git, Docker, Jenkins, Linux  
 
 ## 🚀 Featured Projects
 - 🔬 [Medical Text Classification with LLMs](https://github.com/mmaisa1/Medical-Text-Classification-LLMs) - Advanced NLP research achieving high accuracy on medical datasets
-- 🌐 [VR Algorand Blockchain Interface](https://github.com/mmaisa1/VR_Algorand_Project) - Innovative VR-based cryptocurrency transaction platform  
+- 🌐 [Algorand-Web-Wallet-Interface-TestNet-APIs](https://github.com/mmaisa1/Algorand-Web-Wallet-Interface-TestNet-APIs) - An Algorand blockchain wallet built using Algorand TestNet APIs.  
 - 📱 [QR Code Reminder System](https://github.com/mmaisa1/Qr-reminder-project) - Full-stack web application with Python backend
 
 ## 📊 GitHub Stats
