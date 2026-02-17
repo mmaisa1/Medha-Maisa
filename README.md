@@ -1,43 +1,35 @@
-# Hi there! I'm Medha Maisa 👋
+# Hi, I’m Medha Maisa 👋
 
-## 🎓 About Me
-Graduate Student in Computer Science @CSUDH | Software Engineer with 2+ years @TCS  
-Passionate about AI/ML Research, Backend Development, and Innovative Technology Solutions
+MS Computer Science @ CSUDH (Expected May 2026) | Backend Software Engineer (2 years @ TCS)  
+Interested in backend/platform engineering, distributed systems, and applied ML projects.
 
-## 🔬 Current Focus
-- 🧠 Advanced AI/ML research with Large Language Models
-- 🔗 Blockchain integration and spatial computing
-- 🖥️ Full-stack web development
-- 🛡️ Cybersecurity and network analysis
+## What I do
+- Backend engineering in Java/C++: production support, debugging via logs, reliability fixes
+- Build REST APIs in Python/Flask backed by relational databases (SQLite/MySQL)
+- Applied ML experimentation: text classification + evaluation (accuracy/F1), long-document handling
 
-## 💼 Professional Experience
-- **Software Engineer @TCS** (2+ years): Backend development, telecom systems
-- **Graduate Research**: Medical text classification using LLMs  
-- **Academic Projects**: Network security, blockchain interfaces, full-stack applications
+## Tech Stack
+**Languages:** Java, Python, C++, SQL  
+**Backend:** REST APIs, OOP, distributed systems fundamentals  
+**ML:** scikit-learn, pandas, numpy, Hugging Face Transformers  
+**Databases:** MySQL, SQLite  
+**Tools:** Git, Docker, Jenkins, Linux
 
-## 🛠️ Tech Stack
-**Languages:** Python, Java, C++, JavaScript  
-**AI/ML:** scikit-learn, pandas, numpy, BERT
-**Web:** React, Flask, HTML5, CSS3  
-**Database:** MySQL, SQLite  
-**Tools:** Git, Docker, Jenkins, Linux  
+## Featured Projects
+- **Medical Text Classification Using LLMs**  
+  Built a 32-class classification pipeline; tracked accuracy/F1; experimented with chunking + top-k label narrowing for long reports.  
+  Repo: https://github.com/mmaisa1/Medical-Text-Classification-LLMs
 
-## 🚀 Featured Projects
-- 🔬 [Medical Text Classification with LLMs](https://github.com/mmaisa1/Medical-Text-Classification-LLMs) - Advanced NLP research achieving high accuracy on medical datasets
-- 🌐 [Algorand-Web-Wallet-Interface-TestNet-APIs](https://github.com/mmaisa1/Algorand-Web-Wallet-Interface-TestNet-APIs) - An Algorand blockchain wallet built using Algorand TestNet APIs.  
-- 📱 [QR Code Reminder System](https://github.com/mmaisa1/Qr-reminder-project) - Full-stack web application with Python backend
+- **QR Code Reminder System**  
+  Flask REST APIs + SQLite backend to create and manage reminders; implemented validation and consistent DB updates.  
+  Repo: https://github.com/mmaisa1/Qr-reminder-project
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mmaisa1&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mmaisa1&layout=compact&theme=radical)
+- **Algorand Web Wallet (TestNet)**  
+  Browser-based TestNet wallet to fetch balances and create/sign ALGO transfer transactions; designed for extensibility.  
+  Repo: https://github.com/mmaisa1/Algorand-Web-Wallet-Interface-TestNet-APIs
 
-## 📫 Let's Connect!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/maisa-medha)  
-[![LeetCode](https://img.shields.io/badge/LeetCode-orange?logo=leetcode)](https://leetcode.com/u/MedhaMaisa/)  
-[![HackerRank](https://img.shields.io/badge/HackerRank-green?logo=hackerrank)](https://www.hackerrank.com/profile/Medha_Maisa)
-
-## 🎯 Currently Seeking
-Software Engineering opportunities | Expected graduation: December 2025
-
----
-*🔬 This profile showcases graduate-level AI/ML research capabilities with real-world software engineering experience.*
+## Let's Connect
+- LinkedIn: https://www.linkedin.com/in/medha-maisa/
+- GitHub: https://github.com/mmaisa1/
+- LeetCode: https://leetcode.com/u/MedhaMaisa/
+- HackerRank: https://www.hackerrank.com/profile/Medha_Maisa
