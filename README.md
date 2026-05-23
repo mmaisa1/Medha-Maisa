@@ -1,6 +1,6 @@
 # Hi, I’m Medha Maisa 👋
 
-MS Computer Science @ CSUDH (Expected May 2026) | Backend Software Engineer (2 years @ TCS)  
+MS Computer Science @ CSUDH | Software Engineer (2 years @ TCS)  
 Interested in backend/platform engineering, distributed systems, and applied ML projects.
 
 ## What I do
@@ -9,7 +9,7 @@ Interested in backend/platform engineering, distributed systems, and applied ML 
 - Applied ML experimentation: text classification + evaluation (accuracy/F1), long-document handling
 
 ## Tech Stack
-**Languages:** Java, Python, C++, SQL  
+**Languages:** Java, Python, SQL  
 **Backend:** REST APIs, OOP, distributed systems fundamentals  
 **ML:** scikit-learn, pandas, numpy, Hugging Face Transformers  
 **Databases:** MySQL, SQLite  
@@ -23,10 +23,6 @@ Interested in backend/platform engineering, distributed systems, and applied ML 
 - **QR Code Reminder System**  
   Flask REST APIs + SQLite backend to create and manage reminders; implemented validation and consistent DB updates.  
   Repo: https://github.com/mmaisa1/Qr-reminder-project
-
-- **Algorand Web Wallet (TestNet)**  
-  Browser-based TestNet wallet to fetch balances and create/sign ALGO transfer transactions; designed for extensibility.  
-  Repo: https://github.com/mmaisa1/Algorand-Web-Wallet-Interface-TestNet-APIs
 
 ## Let's Connect
 - LinkedIn: https://www.linkedin.com/in/medha-maisa/
