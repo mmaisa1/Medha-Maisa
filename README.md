@@ -1,51 +1,40 @@
-# Hi, I’m Medha Maisa 👋
+# Medha Maisa
 
-MS Computer Science @ CSUDH | Software Engineer with 2+ years of experience at TCS
-Interested in backend engineering, AI-powered applications, distributed systems, and applied NLP/ML projects.
+Backend engineer working mostly with Java, Python, APIs, databases, and distributed systems.
 
-## What I Do
+I’ve worked on healthcare backend systems, event-driven services, production debugging, and some AI/LLM integrations.
 
-* Build backend services, APIs, and database-backed applications using Python, Flask/FastAPI, SQL, and REST patterns
-* Debug and support production systems through log analysis, root-cause investigation, and reliability-focused fixes
-* Develop applied NLP/ML systems for text classification, model evaluation, and long-document handling
-* Explore AI system design patterns such as confidence-based routing, LLM fallback workflows, and evaluation-driven model selection
+### Tech I use
 
-## Tech Stack
-```
-Languages: Python, Java, SQL, TypeScript, C++
-Backend: FastAPI, Flask, REST APIs, OOP, backend services
-Databases: PostgreSQL, SQLite, MySQL
-AI/ML: scikit-learn, pandas, NumPy, Hugging Face Transformers, NLP, LLMs
-Tools: Git, Docker, Jenkins, Linux, Render
-```
-## Featured Projects
+- Java, Python, SQL
+- Spring Boot, FastAPI, Flask
+- PostgreSQL, Redis, Kafka
+- AWS, Docker
+- JUnit, integration testing
+- Git, CI/CD
 
-### Clinical AI Inference Router
+### Current interests
 
-Confidence-based AI routing system for cancer type classification from clinical pathology reports. Uses a hybrid NLP pipeline with TF-IDF + LinearSVC candidate narrowing, BART-large-MNLI chunked reranking, and planned Qwen2.5-7B fallback for low-confidence cases.
+- backend systems
+- distributed systems
+- performance and reliability
+- healthcare tech
+- practical AI integrations
 
-Repo: https://github.com/mmaisa1/clinical-ai-router
+### Projects
 
-### QRemind
+**QRemind**  
+Python/Flask reminder application with QR-based reminder creation, OTP verification, scheduled email delivery, and recurring reminders.  
+https://qremind.onrender.com
 
-Live Flask-based reminder application that lets users scan a QR code, set reminders, and receive scheduled email notifications. Includes OTP-based reminder management, repeat reminders, QR code generation, and deployment on Render.
+**Clinical AI Inference Router**  
+FastAPI-based inference service with confidence-based routing, PostgreSQL prediction logging, request validation, and latency/routing metrics.  
+https://github.com/mmaisa1/clinical-ai-router
 
-Live demo: https://qremind.onrender.com
+**Medical Text Classification using LLMs**  
+Clinical NLP project comparing classical ML, transformers, and zero-shot LLM approaches across 9,500+ pathology reports.  
+https://github.com/mmaisa1/Medical-Text-Classification-LLMs
 
-Repo: https://github.com/mmaisa1/Qr-reminder-project
+### Links
 
-### Medical Text Classification Using LLMs
-
-Master’s capstone project for classifying TCGA pathology reports into 32 cancer types using traditional NLP, machine learning, and LLM-based approaches. Includes patient-level splitting, TF-IDF baselines, zero-shot classification, chunking, Top-K label narrowing, and model evaluation.
-
-Repo: https://github.com/mmaisa1/Medical-Text-Classification-LLMs
-
-## Let's Connect
-
-LinkedIn: https://www.linkedin.com/in/medha-maisa/
-
-GitHub: https://github.com/mmaisa1/
-
-LeetCode: https://leetcode.com/u/MedhaMaisa/
-
-HackerRank: https://www.hackerrank.com/profile/Medha_Maisa
+- LinkedIn: [linkedin.com/medha-maisa](https://www.linkedin.com/in/medha-maisa/)
