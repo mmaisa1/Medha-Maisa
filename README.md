@@ -1,25 +1,26 @@
 # Medha Maisa
 
-Backend engineer working mostly with Java, Python, APIs, databases, and distributed systems.
+Backend engineer focused on building reliable backend services and distributed systems using Java, Python, APIs, databases, and event-driven architectures.
 
-I’ve worked on healthcare backend systems, event-driven services, production debugging, and some AI/LLM integrations.
+I’ve worked across enterprise software, healthcare, and payments, with experience in backend API development, transactional workflows, production debugging, performance optimization, and AI/LLM-assisted backend integrations.
 
 ### Tech I use
 
 - Java, Python, SQL
-- Spring Boot, FastAPI, Flask
+- Spring Boot, FastAPI
 - PostgreSQL, Redis, Kafka
+- REST APIs, event-driven systems
 - AWS, Docker
 - JUnit, integration testing
 - Git, CI/CD
 
 ### Current interests
 
-- backend systems
-- distributed systems
+- backend and distributed systems
+- event-driven architectures
 - performance and reliability
-- healthcare tech
-- practical AI integrations
+- scalable API design
+- practical AI/LLM integrationstions
 
 ### Projects
 
